@@ -3,4 +3,4 @@ The contributors for this project were: Christopher Clegg, Nora Liu, Marco Scial
 We predict superconductors' critical temperature with a fully connected neural network.
 The dataset was taken from the UCI Machine Learning Repository.
 A full and accurate description of the project is in the file containing the code and graphs.
-The graphs, which were originally made with plotly, were converted to seaborn for the GitHub version.
+Several graphs, which were originally made with plotly, were converted to seaborn for the GitHub version.
